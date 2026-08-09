@@ -1,0 +1,8 @@
+jupyterlab
+numpy
+networkx
+python-igraph
+leidenalg
+matplotlib
+sentence-transformers
+scikit-learn
